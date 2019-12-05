@@ -17,6 +17,8 @@ The main objective of licensing the software publicly is to achieve wide distrib
 * Ubuntu-based development environment - Ansible playbook
 * Central Authentication Service (CAS) components for [EU Login](https://webgate.ec.europa.eu/cas/about.html)
 
+Development of some of these components started during the [third EU-FOSSA Hackathon](https://eufossa.github.io/eu-hackathon-2019/) in Brussels.
+
 ### Q1 & Q2 2020
 
 * Cloud-related components
