@@ -12,10 +12,10 @@ The main objective of licensing the software publicly is to achieve wide distrib
 
 ### Q4 2019
 
-* "Introduction to PHP" course slides
-* Amazon Linux 2 WorkSpace development environment - Ansible playbook
-* Ubuntu-based development environment - Ansible playbook
-* Central Authentication Service (CAS) components for [EU Login](https://webgate.ec.europa.eu/cas/about.html)
+* ["Introduction to PHP"](https://github.com/ecphp/php-intro) course slides
+* [Amazon Linux 2 WorkSpace development environment](https://github.com/ecphp/aws-workspace-php) - Ansible playbook
+* [Ubuntu-based development environment](https://github.com/ecphp/linux-workstation) - Ansible playbook
+* [Central Authentication Service (CAS) library](https://github.com/ecphp/cas-lib), [components](https://github.com/ecphp/ecas), [Symfony bundle for CAS](https://github.com/ecphp/cas-bundle) and [Symfony bundle for EU Login](https://github.com/ecphp/eu-login-bundle), the [European Commission's user authentication service](https://webgate.ec.europa.eu/cas/about.html)
 
 Development of some of these components started during the [third EU-FOSSA Hackathon](https://eufossa.github.io/eu-hackathon-2019/) in Brussels.
 
